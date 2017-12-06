@@ -1,4 +1,4 @@
-泥瓦匠本意：<br>
+本意：<br>
     " 生产暂时不要用fast-framework,
       是想让大家如何理解 MVC 框架的核心,
       以后会带上系列实现文章"
@@ -16,14 +16,6 @@
 - 零配置
 - REST 服务接口 基于 JSON 传输
 - 目前提供 MVC ... 解决方案
-<br><br>
-
-## 作者与学习乐园
-源码地址：我的[GitHub地址](https://github.com/JeffLi1993 "GitHub")<br>
-作者： [李强强](http://www.bysocket.com/ "李强强") 也叫 泥瓦匠<br>
-QQ群：编程之美 365234583  [立即加入](http://jq.qq.com/?_wv=1027&k=Sx4s4U "编程之美")<br>
-欢迎阅读以下博文：<br>
-Fast-FrameWork系列文章：[传送门](http://www.bysocket.com/?cat=102)
 <br><br>
 
 ## 快速入门
